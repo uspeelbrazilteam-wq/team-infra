@@ -1,10 +1,10 @@
-# Oficial Repo — iGEM EEL-USP
+# Oficial Repo iGEM EEL-USP
 
 Este repositório define os padrões técnicos e organizacionais do time.
 
 ## Objetivo
 
-Garantir consistência, escalabilidade e qualidade no desenvolvimento de todos os projetos.
+Ter consistência, escalabilidade e qualidade no desenvolvimento de todos os projetos.
 
 ## Escopo
 
