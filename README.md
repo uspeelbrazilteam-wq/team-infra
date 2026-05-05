@@ -1,4 +1,4 @@
-# Engineering Standards — iGEM EEL-USP
+# Oficial Repo — iGEM EEL-USP
 
 Este repositório define os padrões técnicos e organizacionais do time.
 
