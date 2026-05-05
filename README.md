@@ -4,7 +4,7 @@ Este repositório define os padrões técnicos e organizacionais do time.
 
 ## Objetivo
 
-Ter consistência, escalabilidade e qualidade no desenvolvimento de todos os projetos.
+Ter consistência, escalabilidade e qualidade no desenvolvimento de todos os projetos. Sem mediocridade.
 
 ## Escopo
 
