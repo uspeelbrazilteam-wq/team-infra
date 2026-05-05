@@ -1,3 +1,29 @@
+# Estrutura do Projeto — Repositórios
+
+## Repositórios Ativos
+
+O time mantém quatro repositórios no GitHub da organização. Cada um tem escopo definido e não deve receber conteúdo fora do seu domínio.
+
+---
+
+### `wiki-site`
+
+Repositório do site oficial submetido ao iGEM.
+
+**Conteúdo:** código-fonte do site (HTML/CSS/JS ou framework utilizado), assets visuais, textos das páginas da wiki.
+
+**Owners:** SIS/HARD.
+
+---
+
+### `drylab`
+
+Repositório de modelagem.
+
+**Conteúdo:** scripts de análise, modelos, notebooks, dados processados, documentação metodológica das abordagens computacionais.
+
+**Owners:**    Lideranca de modelagem.
+
 ---
 
 ### `wetlab`
@@ -31,4 +57,3 @@ Repositório de documentação interna do time.
 Não misture responsabilidades entre repositórios.
 
 Se houver dúvida sobre onde algo pertence, está no lugar errado.
-
