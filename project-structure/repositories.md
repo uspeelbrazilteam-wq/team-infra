@@ -32,7 +32,7 @@ Repositório de protocolos e registros experimentais.
 
 **Conteúdo:** protocolos laboratoriais (Markdown), registros de experimentos, resultados brutos, planilhas de dados experimentais.
 
-**Owners:** SIS/HARD.
+**Owners:** lideranca de modelagem.
 
 ---
 
